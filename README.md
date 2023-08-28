@@ -1,0 +1,2 @@
+# express-prisma
+DATABASE: postgresql
